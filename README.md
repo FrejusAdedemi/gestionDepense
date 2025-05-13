@@ -29,7 +29,8 @@ Une application web simple et efficace permettant de gérer facilement vos dépe
 ### Option 2 : Clonage via Git
 ```bash
 git clone https://votre-repo/gestion-depenses.git
-cd gestion-depenses
+git clone https://github.com/FrejusAdedemi/gestionDepense.git
+cd gestionDepense
 # Ouvrez index.html dans votre navigateur
 ```
 
